@@ -1,0 +1,74 @@
+body{
+    background-color: wheat;
+  
+}
+h1{
+    text-align: center;
+    margin-top: 45px;
+    text-decoration: underline;
+}
+#cimkep{
+    text-align: center;
+    margin-top: -25px;
+}
+.gombok{
+    text-align: center;
+    width: 100%;
+    
+}
+.gombf{
+    border: 10px solid green;
+    background-color: green;
+    border-radius: 45%;
+    font-size: 3em;
+}
+.gombr{
+    border: 10px solid red;
+    background-color: red;
+    border-radius: 45%;
+    font-size: 3em;
+    
+}
+.gombh{
+    border: 10px solid blue;
+    background-color: blue;
+    border-radius: 45%;
+    font-size: 3em;
+}
+a{
+    text-decoration: none;
+    color: rgba(255, 255, 0, 0.686);
+}
+#rolam, #hobbik{
+    margin: 5px 0 0 670px;
+}
+#halvany{
+    color: gray;
+    font-style: italic;
+}
+caption{
+    text-decoration: underline;
+    font-weight: 700;
+    font-size: 1.2em;
+    margin-bottom: 10px;
+}
+#jatekok{
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 80px;
+    margin-bottom: 150px;
+    width: 40%;
+    font-size: 1.5em;
+}
+.nagyobb{
+    font-size: 1.4em;
+}
+#kepek{
+    margin: 0 auto;
+    margin-top: 40px;
+    margin-bottom: 90px;
+    width: 45%;
+}
+ul{
+    line-height: 130%;
+}
